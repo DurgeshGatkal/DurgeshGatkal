@@ -159,7 +159,7 @@ Coding-platform profile links were not provided, so no unverified LeetCode, Geek
 
 ## Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/DurgeshGatkal/DurgeshGatkal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/DurgeshGatkal/DurgeshGatkal/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></div>
 
 ---
 
